@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/71466100/laravel-kreait-laravel-firebase-install-failed
+https://www.iankumu.com/blog/laravel-firebase/
+https://blog.devgenius.io/basic-firebase-authentication-with-laravel-rest-api-33db299776f
+
+composer require kreait/laravel-firebase --with-all-dependencies
