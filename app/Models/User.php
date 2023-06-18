@@ -21,7 +21,8 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
-        'fcm_token'
+        'fcm_token', 
+        'device_token' // attriiteattribute added
     ];
 
     /**
