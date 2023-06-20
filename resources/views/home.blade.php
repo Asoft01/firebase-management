@@ -96,6 +96,7 @@
             });
     }
     messaging.onMessage(function (payload) {
+        console.log(payload); return false;
         const title = payload.notification.title;
         const options = {
             body: payload.notification.body,
